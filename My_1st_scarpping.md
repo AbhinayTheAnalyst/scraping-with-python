@@ -10,3 +10,9 @@ if you can solve it then try with my next corrected verson😊
 
 scraping-with-python using jupyter notebook
 <img width="1637" height="933" alt="image" src="https://github.com/user-attachments/assets/ab990341-fe9e-4aac-8623-acedee99ec69" />
+
+
+FINAL CODE WITH EXTRACTED TAGS , QUOTES, AUTHOR  WITH MANY SMALL SYNTAX ERROR
+
+
+<img width="801" height="906" alt="image" src="https://github.com/user-attachments/assets/fb1127bf-3d68-4052-8492-12c5994df281" />
